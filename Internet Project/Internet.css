@@ -1,0 +1,289 @@
+
+#header{
+    height: 150px;
+    width: 970px;
+    background-color: rgb(62, 119, 206);
+}
+#banner{
+    height: 60px;
+    width: 970px;
+    background-color: rgb(62, 119, 206);
+    vertical-align: bottom;
+}
+#topbanner{
+    background-color: rgb(247, 245, 245);
+    height: 75px;
+    width: 970px;
+}
+.globeimg{
+    height: 67px;
+    width: 72px;
+    margin-top: 20px;
+    display: inline-block;
+}
+#header h1{
+    display: inline-block;
+}
+.imgcontainer{
+    height: 50px;
+    width: 60px;
+    background-color: rgb(247, 245, 245);
+    display: inline-block;
+}
+.headertxt{
+    background-color: rgb(247, 245, 245);
+    height: 50px;
+    width: 227px;
+    display: inline-block;
+    margin-left: 11px;
+    margin-bottom: 17px;
+    vertical-align: top;
+    margin-top: 11px;
+}
+.headertxt p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+    color: rgb(37, 37, 37);
+}
+.headertxt span{
+    color: rgb(110, 156, 226);
+}
+.bannertxt{
+    height: 50px;
+    width: 480px;
+    background-color: rgb(62, 119, 206);
+    padding-left: 42px;   
+}
+.bannertxt p{
+    color: white;
+    vertical-align: bottom;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;   
+}
+#leftbody{
+    width: 300px;
+    height: 800px;
+    background-color: rgb(247, 245, 245);
+    display: inline-block;  
+    position: relative; 
+}
+#main{
+    width: 670px;
+    height: 800px;
+    background-color: rgb(247, 245, 245);
+    display: inline-block;
+    position: absolute;
+}
+#linkbox{
+    height: 300px;
+    width: 270px;
+    background-color: rgb(247, 245, 245);
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#dojobox{
+    height: 441px;
+    width: 270px;
+    background-color:rgb(247, 245, 245);
+    background-image: url("/Users/michaelvogel/Desktop/Internet Project/ad_background.png");
+    margin-left: 20px;
+    
+}
+#linkbox p{
+    font-size: 20px;
+    color: black;
+}
+#linkbox span{
+    color: red;  
+}
+#button{
+    display: inline-block;
+    border-radius: 5px;
+    text-align: center;
+    background-color: orange;
+    margin-left: 29px;
+    width: 175px;
+    height: 33px;
+}
+#button1{
+    background-color: rgb(62, 119, 206);
+    display: inline-block;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    width: 175px;
+    height: 33px;
+}
+
+.border{
+    width: 270px;
+    height: 3px;
+    background-color: gray;
+    margin-top: 20px;
+}
+#dojobox, p{
+    text-align: center;
+    color:rgb(247, 245, 245);
+    font-size: 40px;
+
+}
+.ninjaimg{
+    height: 200px;
+    width: 180px;
+    margin-top: 0px;
+}
+#learnmore{
+    font-size: 20px;
+    width: 182px;
+    border-radius: 5px;
+    background-color: rgb(174, 235, 243);   
+}
+#dnsbanner{
+    height: 92px;
+    width: 600px;
+    background-color: rgb(247, 245, 245);
+    margin-left: 20px;
+    border-bottom: 2px solid gray;
+}
+#clients{
+    height: 319px;
+    width: 600px;
+    background-color: rgb(247, 245, 245);
+    margin-left: 20px;
+}
+#bottomlist{
+    height: 193px;
+    width: 600px;
+    background-color: rgb(247, 245, 245);
+    margin-left: 20px;
+}
+#thebig3{
+    height: 155px;
+    width: 600px;
+    background-color: rgb(247, 245, 245);
+    margin-left: 20px;
+    border-top: 2px solid blue;
+    border-left: 2px solid blue;
+    border-right: 2px solid blue;
+}
+.leftbox{
+    height: 75px;
+    width: 300px;
+    background-color: rgb(247, 245, 245);
+    display: inline-block;
+    position: relative;
+}
+.rightbox{
+    height: 75px;
+    width: 300px;
+    background-color: rgb(247, 245, 245);
+    display: inline-block;
+    position: absolute;
+}
+.homeimgcontainer{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(247, 245, 245);
+    display: inline-block;
+    position: relative;
+    margin-top: 15px;
+}
+.homeimg{
+    height: 23px;
+    width: 23px; 
+}
+.dns{
+    height: 50px;
+    width: 100px;
+    background-color: wrgb(247, 245, 245);
+    display: inline-block;
+    position: absolute;
+}
+h5{
+    color: black;
+
+}
+.phoneimgcontainer{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(247, 245, 245);
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.phoneimg{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(247, 245, 245);
+    display: inline-block;
+}
+.phonenumber{
+    font-size: 10px;
+    text-align: center;
+    
+    height: 63px;
+    width: 184px;
+    background-color: rgb(247, 245, 245);
+    display: inline-block;
+    margin-left: 6px;
+    margin-bottom: 2px;
+    
+    color: black;
+}
+.span{
+    color: aqua;
+    font-size: 25px;
+    margin: 0px;
+}
+h2{
+    color: rgb(62, 119, 206);
+    size: 20px;
+}
+#clients p{
+    color: black;
+    font-size: 20px;
+    text-align: left;    
+}
+#clients li{
+    line-height: 175%;
+    font-size: 15px;
+}
+#clients img{
+    height: 85px;
+    width: 177px;
+    margin-left: 205px
+}
+.big3container{
+    height: 121px;
+    width: 151px;
+    background-color: rgb(247, 245, 245);
+    position: relative;
+    padding-top: 20px;
+    display: inline-block;
+
+}
+.big3container img{
+    height: 117px;
+    width: 140px;
+}
+#thebig3 h2{
+    height: 27px;
+    width: 400px;
+    display: inline-block;
+    position: absolute;
+    font-size: 20px;
+    margin-top: 4px;
+    margin-block-end: 0px;
+}
+#thebig3 p{
+    color: blue;
+    display: inline-block;
+    position: absolute;
+    width: 400px;
+    font-size: 15px;
+    margin-top: 45px;
+
+}
