@@ -1,0 +1,255 @@
+#background{
+    background-color: rgb(26, 113, 170);
+    width: 970px;
+    height: 1000px;
+    padding: 10px;
+    padding-left: 10px;
+
+}
+#top{
+    background-color:rgb(26, 113, 170);
+    width: 930px;
+    height: 169px;
+}
+#header{
+    width: 930px;
+    height: 110px;
+    background-color: rgb(26, 113, 170);
+}
+.pythonlogo{
+    height: 100px;
+    width: 400px;
+    background-color: rgb(26, 113, 170);
+    display: inline-block;
+}
+.logo{
+    height: 100px;
+    width: 400px;
+}
+.searchbar{
+    height: 24px;
+    width: 200px;
+    background-color:rgb(26, 113, 170);
+    display: inline-block;
+    margin-left: 311px;
+}
+.searchbutton{
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+.button{
+    background: white;
+}
+
+#navbar{
+    height: 50px;
+    width: 875px;
+    background-color:rgb(32, 132, 226);
+    border-radius: 10px;
+    margin-left: 25px;
+    text-shadow: 2px 2px black;
+   padding-bottom: 10px;
+}
+.navlinks{
+    height: 30px;
+    width: 65px;
+    display: inline-block;
+    background-color: rgb(32, 132, 226);
+    margin: 10px;
+    margin-left: 54px;
+    color: white;
+    text-align: center;    
+}
+h3{
+    size: 5px;
+    text-align: center;
+
+}
+#middle{
+    background-color: rgb(26, 113, 170);
+    height: 400px;
+    width: 930px;
+    vertical-align: top;
+    display: inline-block;
+
+}
+#aboutpython{
+    background-color: rgb(26, 113, 170);
+    height: 400px;
+    width: 500px;
+    display: inline-block;
+    position: absolute;
+}
+.history{
+    height: 75px;
+    width: 550;
+    background-color: rgb(26, 113, 170);
+    color: white;
+}
+p{
+    position: absolute;
+    size: 10px;
+    text-align: left;
+    text-indent: 5px;
+    
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: yellow;
+
+   
+}
+.quote{
+    height: 200px;
+    width: 400px;
+    background-color:rgb(26, 113, 170);
+    margin-left: 49px;
+    font-size: 20px;
+    font-weight: lighter;
+    
+}
+.author{
+    height: 20px;
+    width: 100px;
+    background-color: rgb(26, 113, 170);
+    margin-left: 199px;
+}
+h6{
+    size: 8px;
+    font-style: italic;
+
+}
+#middlenavbar{
+    background-color:rgb(26, 113, 170);
+    height: 400px;
+    width: 354px;
+    display: inline-block;
+
+}
+.listoflinks{
+    height: 160px;
+    width: 176px;
+    background-color:rgb(26, 113, 170);
+    position: absolute;
+    margin-left: 115px;
+    margin-top: 58px;
+    text-align: center;
+    
+}
+li{
+    text-decoration-line: underline;
+    size: 10px;
+    margin: 8px;
+    color: white;
+}
+
+#lower{
+    background-color: white;
+    height: 300px;
+    width: 930px;
+    margin-left: 10px;
+}
+.banner{
+    height: 3px;
+    width: 300px;
+    background-color: rgb(26, 113, 170);
+    margin: 10px;
+    border-radius: 5px;
+    margin-left: 65px;
+
+    
+}
+.titlemiddle{
+    height: 45px;
+    width: 275px;
+    background-color: white;
+    margin-left: 37px;
+}
+.middlenavtext{
+    height: 58px;
+    width: 335px;
+    background-color: white;
+    margin-left: 46px;
+}
+
+#gettingstarted{
+    height: 300px;
+    width: 465px;
+    background-color: white;
+    display: inline-block;  
+    position: relative;
+}
+h4{
+    
+    margin-left: 114px;
+}
+.paragraph{
+    height: 60px;
+    width: 300px;
+    font-size: 12px;
+    font-family: times new roman;
+    text-align: center;
+    position: relative;
+    margin-left: 1cm;
+    margin-right: .5cm;
+}
+.middlelist{
+    height: 33px;
+    width: 300px;
+    color: teal;
+    text-align: center;
+    
+}
+.listoflinks ul{
+    list-style-type: none;
+}
+#applications{
+    height: 300px;
+    width: 461px;
+    background-color: white;
+    display: inline-block; 
+    position: absolute; 
+}
+#help{
+    height: 50px;
+    width: 156px;
+    background-color: rgb(26, 113, 170);
+    display: inline-block;
+    margin-left: 277px;
+    color: white;
+    opacity: .4;
+
+}
+#diversity{
+    height: 50px;
+    width: 122px;
+    background-color: rgb(26, 113, 170);
+    display: inline-block;
+    color: white;
+    opacity: .4;
+}
+#submit{
+    height: 50px;
+    width: 130px;
+    background-color: rgb(26, 113, 170);
+    display: inline-block;
+    color: white;
+    opacity: .4;
+}
+#copyright{
+     height: 50px;
+    width: 100px;
+    background-color: rgb(26, 113, 170);
+    margin-left: 399px;
+    margin-top: 32px;
+    color: white;
+    opacity: .4;
+}
